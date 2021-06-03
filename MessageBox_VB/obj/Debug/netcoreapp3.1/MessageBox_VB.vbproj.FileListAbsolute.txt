@@ -1,0 +1,15 @@
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.vbprojAssemblyReference.cache
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.Form1.resources
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.vbproj.GenerateResource.cache
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.AssemblyInfoInputs.cache
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.AssemblyInfo.vb
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.vbproj.CoreCompileInputs.cache
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.exe
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.deps.json
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.runtimeconfig.json
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.runtimeconfig.dev.json
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.dll
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\bin\Debug\netcoreapp3.1\MessageBox_VB.pdb
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.dll
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.pdb
+C:\Users\FelinoHost\source\repos\MessageBox_VB\MessageBox_VB\obj\Debug\netcoreapp3.1\MessageBox_VB.genruntimeconfig.cache
